@@ -1,12 +1,12 @@
 import streamlit as st
 import os
 
-st.set_page_config(page_title='Eficiência Energética - Vitalis Energia', layout='wide')
+st.set_page_config(page_title='Eficiência Energética em Iluminação - Vitális Energia', layout='wide')
 
 if os.path.exists('logo.jpg'):
     st.image('logo.jpg', width=250)
 
-st.title('Eficiência Energética - Vitalis Energia')
+st.title('Eficiência Energética em Iluminação - Vitális Energia')
 
 benchmarks = {
     'Norte / Nordeste': {'Pequeno': 4.05, 'Médio': 4.95, 'Grande': 6.30},
