@@ -6,7 +6,7 @@ st.set_page_config(page_title='Eficiência Energética em Iluminação-Vitális 
 if os.path.exists('logo.jpg'):
     st.image('logo.jpg', width=250)
 
-st.title('Eficiência Energética em Iluminação-Vitális Energia')
+st.title('Eficiência Energética em Iluminação Pública')
 
 benchmarks = {
     'Norte / Nordeste': {'Pequeno': 4.05, 'Médio': 4.95, 'Grande': 6.30},
