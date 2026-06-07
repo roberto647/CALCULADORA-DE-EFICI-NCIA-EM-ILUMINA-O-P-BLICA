@@ -60,6 +60,12 @@ else:
     st.warning(f'Prejuízo estimado: R$ {gasto_total - gasto_ideal_total:.2f} (Desvio de {desvio:.2f}%)')
     st.info(f'Gasto ideal para o seu porte e região: R$ {gasto_ideal_total:.2f}')
 
-st.divider()
-st.subheader('Para saber como melhorar a gestão de energia do seu município entre em contato através do:')
-st.markdown('[WhatsApp](https://wa.me/5519997970002) | [E-mail](mailto:comercial@vitalisenergia.com)')
+st.markdown("---")
+st.markdown(
+    """
+    ### 📞 Próximos Passos
+    Para saber como melhorar a gestão de energia do seu município, entre em contato com a **VITÁLIS ENERGIA**:
+    *   **WhatsApp:** [19-997970002](https://wa.me/5519997970002)
+    *   **E-mail:** [comercial@vitalisenergia.com](mailto:comercial@vitalisenergia.com)
+    """
+)
