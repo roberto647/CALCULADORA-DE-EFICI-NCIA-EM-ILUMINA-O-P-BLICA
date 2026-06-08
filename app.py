@@ -2,7 +2,7 @@ import streamlit as st
 import os
 
 # Configuração da página
-st.set_page_config(page_title="Eficiência Energética - Vitalis Energia", layout="wide")
+st.set_page_config(page_title="Calculadora - Vitális Energia", layout="wide")
 
 # --- EXIBIÇÃO DO LOGO CENTRALIZADO ---
 logo_path = "logo.jpg"
@@ -11,7 +11,7 @@ if os.path.exists(logo_path):
     with col_l2:
         st.image(logo_path, width=250)
 
-st.title("⚡ Eficiência Energética em Iluminação Pública")
+st.title("Diagnóstico de Eficiência Energética para Iluminação Pública")
 st.markdown("---")
 
 # --- PARÂMETROS DAS TABELAS ---
