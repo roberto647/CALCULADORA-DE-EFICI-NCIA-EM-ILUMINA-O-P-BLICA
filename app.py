@@ -2,7 +2,7 @@ import streamlit as st
 import os
 
 # Configuração da página
-st.set_page_config(page_title="Calculadora - Vitális Energia", layout="wide")
+st.set_page_config(page_title="Calculadora IP- Vitális Energia", layout="wide")
 
 # --- EXIBIÇÃO DO LOGO CENTRALIZADO ---
 logo_path = "logo.jpg"
