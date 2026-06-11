@@ -76,7 +76,7 @@ st.markdown("---")
 st.markdown(
     """
     ### 📞 Próximos Passos
-    Para saber como economizar esses valores na gestão de energia do seu município, entre em contato com a **VITÁLIS ENERGIA**:
+    Para saber como economizar esses valores na gestão de energia do seu município, entre em contato com a ** VITÁLIS ENERGIA**:
     *   **WhatsApp:** [19-997970002](https://wa.me/5519997970002)
     *   **E-mail:** [comercial@vitalisenergia.com](mailto:comercial@vitalisenergia.com)
     """
